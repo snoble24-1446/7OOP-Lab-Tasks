@@ -44,4 +44,5 @@ I'm a Pisces and a Caeruleaphile, I enjoy casual rides in my bike and with my fr
 ## Contacts
 - Facebook: [@Shan](https://www.facebook.com/Shinjinoble)
 - Instagram: [@Shinj.i27](https://www.instagram.com/shinj.i27/)
-- GitHub: [@Shan](https://github.com/Shinji27)
+- GitHub: [@Shinji27](https://github.com/Shinji27)
+- You can also contact me via email: Personal Email: nobleshanmael12345@gmail.com
