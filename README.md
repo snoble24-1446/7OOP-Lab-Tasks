@@ -3,7 +3,7 @@
 
 <p align="center">
   <!-- Optional banner -->
-  <img src="https://miro.medium.com/1*b21FyqUbowHYAOQDXH0tDw.jpeg" alt="Banner" width="1000"/>
+  <img src="https://miro.medium.com/1*b21FyqUbowHYAOQDXH0tDw.jpeg" alt="Banner" width="750" height="1000"/>
 </p>
 
 <!-- B. About Me with picture -->
