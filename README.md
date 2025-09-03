@@ -34,6 +34,7 @@ I'm a Pisces and a Caeruleaphile, I enjoy casual rides in my bike and with my fr
 <!-- D. Project Links -->
 ## Project Links
 - [Project 1 – Lab Task Set 1](https://docs.google.com/document/d/1dyW49Zkdpp9ZDB0k3DEHUYRMrldBIxydKVY2T3QRq34/edit?tab=t.0) — I attached the file of my work.
+- [Project 2 - Lab Task Set 2](https://docs.google.com/document/d/1awB6vBCqjI2ikcqg7SH6XTdptuAlyoOxdlpw4h8awIk/edit?tab=t.0)- Added another file to my work
 <!-- E. Fun Facts -->
 ## Fun Facts About Me
 - I ride classic motorcycles / I love coffee
