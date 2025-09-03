@@ -3,7 +3,7 @@
 
 <p align="center">
   <!-- Optional banner -->
-  <img src="https://miro.medium.com/1*b21FyqUbowHYAOQDXH0tDw.jpeg" alt="Banner" width="500"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Altja_j%C3%B5gi_Lahemaal.jpg/1200px-Altja_j%C3%B5gi_Lahemaal.jpg" alt="Banner" width="500"/>
 </p>
 
 <!-- B. About Me with picture -->
