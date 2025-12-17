@@ -35,11 +35,12 @@ I'm a Pisces and a Caeruleaphile, I enjoy casual rides in my bike and with my fr
 ## Project Links
 ----- MIDTERMS Project Links -----
 - [Project 1 – Lab Task Set 1](https://docs.google.com/document/d/1dyW49Zkdpp9ZDB0k3DEHUYRMrldBIxydKVY2T3QRq34/edit?tab=t.0) — I attached the file of my work.
-- [Project 2 - Lab Task Set 2](https://docs.google.com/document/d/1awB6vBCqjI2ikcqg7SH6XTdptuAlyoOxdlpw4h8awIk/edit?tab=t.0)- Added another file to my work
-- [Project 3 - Lab Task Set 3](https://docs.google.com/document/d/1A0cges7glXWdBU5Yve0rqBUZsdI41ZenQbbVJu1wdhY/edit?tab=t.0)- Added another file to my work
-- [Project 4 - Lab Task Set 4](https://docs.google.com/document/d/1ZYWzpZUQ4ccOnRP0REQWfVxCzusY_CPhJC3wPjclPA4/edit?tab=t.0)- Added another file to my work
-- [Project 5 - Lab Task Set 5](https://docs.google.com/document/d/1Ong81w8g3skULLrysuOXySoyXMNeqFTJJO8yLWEbx-g/edit?pli=1&tab=t.0)- Added another file to my work
-- [Project 6 - Lab Task Set 6](https://docs.google.com/document/d/1BgnmDbRqtaIsXqodf-LPsfxXD6pbCPf_/edit)- Added another file to my work
+- [Project 2 - Lab Task Set 2](https://docs.google.com/document/d/1awB6vBCqjI2ikcqg7SH6XTdptuAlyoOxdlpw4h8awIk/edit?tab=t.0) — Added another file to my work
+- [Project 3 - Lab Task Set 3](https://docs.google.com/document/d/1A0cges7glXWdBU5Yve0rqBUZsdI41ZenQbbVJu1wdhY/edit?tab=t.0) — Added another file to my work
+- [Project 4 - Lab Task Set 4](https://docs.google.com/document/d/1ZYWzpZUQ4ccOnRP0REQWfVxCzusY_CPhJC3wPjclPA4/edit?tab=t.0) — Added another file to my work
+- [Project 5 - Lab Task Set 5](https://docs.google.com/document/d/1Ong81w8g3skULLrysuOXySoyXMNeqFTJJO8yLWEbx-g/edit?pli=1&tab=t.0) — Added another file to my work
+- [Project 6 - Lab Task Set 6](https://docs.google.com/document/d/1BgnmDbRqtaIsXqodf-LPsfxXD6pbCPf_/edit) — Added another file to my work
+
 ----- FINALS Project Links -----
 - [Project 1 – Lab Task Set 3](https://docs.google.com/document/d/1oX4S1OR6WBZchAV8MxzgoA_d4_cqPaRr/edit) — I attached the file of my work.
 - [Project 1 – Lab Task Set 5](https://docs.google.com/document/d/1Fl1lJODEelakORYyYIp_fv3w8GjzF9Xt/edit) — I attached the file of my work.
